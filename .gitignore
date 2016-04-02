@@ -3,9 +3,13 @@
 bin/
 
 # ignore all target directories
-target/
+/target/
 
 # ignore all files ending with ~
 *~ 
 # ignore all .metadata files
 .metadata
+/.classpath
+/.project
+/.settings/
+
